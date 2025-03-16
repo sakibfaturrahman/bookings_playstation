@@ -7,7 +7,7 @@
     <div class="table-data">
         <div class="order">
             <div class="head">
-                <h3>Recent Orders</h3>
+                <h3>Playstation</h3>
 
                 @if ($errors->any())
                     <div class="alert alert-danger">
